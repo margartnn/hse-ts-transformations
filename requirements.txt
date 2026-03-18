@@ -11,3 +11,4 @@ datasetsforecast
 tsfresh
 tslearn
 statsforecast
+seaborn
