@@ -56,7 +56,8 @@ def generate_features(
     
     df_features = df_features.rename(columns={
         'unique_id': id_column,
-        'ds': date_column
+        'ds': date_column,
+        'y': target_column
     })
     
     return df_features
