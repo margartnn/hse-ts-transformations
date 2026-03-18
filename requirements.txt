@@ -1,0 +1,13 @@
+pandas
+numpy
+sktime
+scikit-learn
+catboost
+statsmodels
+scipy
+matplotlib
+tqdm
+datasetsforecast
+tsfresh
+tslearn
+statsforecast
