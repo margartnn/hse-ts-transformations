@@ -13,3 +13,4 @@ tslearn
 statsforecast
 seaborn
 catboost
+mlforecast
