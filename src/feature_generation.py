@@ -19,7 +19,7 @@ class DummyModel(BaseEstimator, TransformerMixin):
 def generate_features(
         df, 
         id_column='series_name', 
-        date_column='timestamp', 
+        date_column='timestamp',
         target_column='series_value', 
         freq='MS', 
         lags=[1, 2, 3, 6, 12], 

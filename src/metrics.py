@@ -6,6 +6,3 @@ def smape(y_true: np.ndarray, y_pred: np.ndarray, eps: float = 1e-8) -> float:
     smape = 100 * np.mean(numerator / (denominator + eps))
 
     return smape
-
-
-

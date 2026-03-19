@@ -12,3 +12,4 @@ tsfresh
 tslearn
 statsforecast
 seaborn
+catboost
